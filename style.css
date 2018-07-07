@@ -1,0 +1,28 @@
+A {
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #996600;
+}
+a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #ff9900;
+}
+a:hover {
+	color:#993300;
+	text-decoration:underline;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+body {
+	background-color: #ffffcc;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #05611A;
+}
+td {
+	background-color: #ffffcc;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #05611A;
+}
